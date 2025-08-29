@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="mailto:herry.patel@tum.de"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/herrypatel/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Herry%2520Patel-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/herry-patel-477507220/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Herry%2520Patel-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn"/></a>
 </p>
 
 I'm a passionate and driven Information Engineering student at the Technical University of Munich (TUM) with a strong foundation in computer science, algorithms, and software development. I'm actively seeking challenging software engineering internships where I can contribute to building scalable, reliable, and impactful systems.
