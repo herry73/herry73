@@ -44,18 +44,6 @@ Maze Runner Game
 Developed a complete 2D maze game from the ground up. The project features a high-performance enemy AI using Dijkstra's algorithm for intelligent pathfinding and a robust collision detection system that maintains consistent game physics and a smooth 60 FPS frame rate.
 	
 
-💼 Professional Experience
-
-Software Development Intern @ Ascassy Cloud Healthcare
-
-As an intern, I contributed to improving software reliability and performance by engineering comprehensive unit and integration tests. I operated within an Agile team, using Jira and GitLab for CI/CD, and played an active role in resolving critical bugs, which led to a 25% improvement in QA metrics. My experience there solidified my skills in systematic debugging, cross-functional collaboration, and maintaining high code standards through peer reviews.
-
-🌐 Community & Leadership
-
-Technical Team Member @ Google Developer Student Club (GDSC)
-
-I was actively involved in fostering the tech community at my university. My role involved organizing large-scale hackathons for over 100 students and mentoring participants in competitive events like CTFs. I also tutored foundational concepts in linear algebra and probability to help students bridge the gap to machine learning.
-
 <p align="center">
 Thanks for visiting my profile! Let's connect and build something amazing together.
 </p>
