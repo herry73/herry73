@@ -17,8 +17,14 @@ I'm a passionate and driven Information Engineering student at the Technical Uni
 🛠️ My Tech Stack
 
 Python Go Java C++
+
+
 Git GitLab Jira LibGDX
+
+
 Agile CI/CD TDD
+
+
 JavaScript SQL HTML/CSS
 
 🌟 Featured Projects
