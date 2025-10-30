@@ -19,10 +19,10 @@ I'm a passionate and driven Information Engineering student at the Technical Uni
 Java C++ Go Python
 
 
-Git GitLab Jira LibGDX
+Git GitLab PyTorch 
 
 
-Agile CI/CD TDD
+Agile CI/CD 
 
 
 JavaScript SQL HTML/CSS
