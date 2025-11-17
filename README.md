@@ -8,9 +8,9 @@
 I'm a passionate and driven Information Engineering student at the Technical University of Munich (TUM) with a strong foundation in computer science, algorithms, and software development. I'm actively seeking challenging software engineering internships where I can contribute to building scalable, reliable, and impactful systems.
 🚀 What I'm About
 
-    🧠 Core Focus: Backend Development, System Design, and Game Engineering.
+    🧠 Core Focus: Parallel Programs Development, System Design.
 
-    💻 Currently Learning: Advanced concepts in concurrent programming and cloud-native technologies.
+    💻 Currently Learning: Advanced concepts in concurrent programming, cloud-native technologies and CUDA.
 
     🌱 Goal: To solve complex problems and build software that makes a difference. I thrive in collaborative environments and am always eager to learn from experienced engineers.
 
@@ -29,7 +29,7 @@ JavaScript SQL HTML/CSS
 
 🌟 Featured Projects
 
-Here are a couple of projects I'm proud of. You can find more in my repositories!
+Here are a couple of projects I've done.
 
 
 C4AT - Concurrent TCP Chat Server
@@ -42,8 +42,3 @@ Maze Runner Game
 	
 
 Developed a complete 2D maze game from the ground up. The project features a high-performance enemy AI using Dijkstra's algorithm for intelligent pathfinding and a robust collision detection system that maintains consistent game physics and a smooth 60 FPS frame rate.
-	
-
-<p align="center">
-Thanks for visiting my profile! Let's connect and build something amazing together.
-</p>
