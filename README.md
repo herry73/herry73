@@ -1,4 +1,4 @@
-👋 Hi, I'm Herry Patel
+### Hi, I'm Herry Patel
 
 <p align="left">
 <a href="mailto:herry.patel@tum.de"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email" alt="Email"/></a>
@@ -6,39 +6,29 @@
 </p>
 
 I'm a passionate and driven Information Engineering student at the Technical University of Munich (TUM) with a strong foundation in computer science, algorithms, and software development. I'm actively seeking challenging software engineering internships where I can contribute to building scalable, reliable, and impactful systems.
-🚀 What I'm About
 
-    🧠 Core Focus: Parallel Programs Development, System Design.
+     Core Focus: Parallel Programs Development, Machine Learning.
 
-    💻 Currently Learning: Advanced concepts in concurrent programming, cloud-native technologies and CUDA.
-
-    🌱 Goal: To solve complex problems and build software that makes a difference. I thrive in collaborative environments and am always eager to learn from experienced engineers.
-
-🛠️ My Tech Stack
-
-Java C++ Go Python
+     Currently Learning: Advanced concepts in machine learning, concurrent programming, cloud-native technologies & CUDA.
 
 
-Git GitLab PyTorch 
 
 
-Agile CI/CD 
+## 🌟 Featured Projects
 
 
-JavaScript SQL HTML/CSS
-
-🌟 Featured Projects
-
-Here are a couple of projects I've done.
-
-
-C4AT - Concurrent TCP Chat Server
+### C4AT - Concurrent TCP Chat Server
 	
 
 Engineered a scalable, concurrent TCP chat server in Go. It efficiently handles multiple simultaneous client connections using goroutines and channels and features a robust anti-abuse system with rate-limiting and automatic IP banning to ensure high availability and server stability.
 	
 
-Maze Runner Game
+### Helsinki AI Navigator
+
+Created a semantic travel guide integrating Neo4j Knowledge Graphs with PyTorch Vector Embeddings to facilitate context-aware "Vibe" Search. It uses RAG with Llama-3 for generating dynamic itineraries and real-time GTFS data for live visualization.
+
+
+### Maze Runner Game
 	
 
 Developed a complete 2D maze game from the ground up. The project features a high-performance enemy AI using Dijkstra's algorithm for intelligent pathfinding and a robust collision detection system that maintains consistent game physics and a smooth 60 FPS frame rate.
