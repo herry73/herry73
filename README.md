@@ -23,7 +23,7 @@ I'm a passionate and driven Information Engineering student at the Technical Uni
 Engineered a scalable, concurrent TCP chat server in Go. It efficiently handles multiple simultaneous client connections using goroutines and channels and features a robust anti-abuse system with rate-limiting and automatic IP banning to ensure high availability and server stability.
 	
 
-### Helsinki AI Navigator
+### Cognitive City Navigator
 
 Created a semantic travel guide integrating Neo4j Knowledge Graphs with PyTorch Vector Embeddings to facilitate context-aware "Vibe" Search. It uses RAG with Llama-3 for generating dynamic itineraries and real-time GTFS data for live visualization.
 
