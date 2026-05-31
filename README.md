@@ -1,7 +1,6 @@
 ### Hi, I'm Herry Patel
 
 <p align="left">
-<a href="mailto:herry.patel@tum.de"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/herry-patel-477507220/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Herry%2520Patel-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn"/></a>
 </p>
 
